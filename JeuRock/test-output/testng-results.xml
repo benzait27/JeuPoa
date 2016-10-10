@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="111" started-at="2016-10-10T06:23:04Z" finished-at="2016-10-10T06:23:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="111" started-at="2016-10-10T06:23:04Z" finished-at="2016-10-10T06:23:04Z">
+      <class name="fr.p10.miage.rps.test.RockPaperScissorsTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:fr.p10.miage.rps.test.RockPaperScissorsTest@32d992b2]" name="beforeClass" is-config="true" duration-ms="27" started-at="2016-10-10T08:23:04Z" finished-at="2016-10-10T08:23:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:fr.p10.miage.rps.test.RockPaperScissorsTest@32d992b2]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2016-10-10T08:23:04Z" finished-at="2016-10-10T08:23:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="playLost()[pri:0, instance:fr.p10.miage.rps.test.RockPaperScissorsTest@32d992b2]" name="playLost" duration-ms="17" started-at="2016-10-10T08:23:04Z" finished-at="2016-10-10T08:23:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playLost -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:fr.p10.miage.rps.test.RockPaperScissorsTest@32d992b2]" name="afterMethod" is-config="true" duration-ms="1" started-at="2016-10-10T08:23:04Z" finished-at="2016-10-10T08:23:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="playTie()[pri:0, instance:fr.p10.miage.rps.test.RockPaperScissorsTest@32d992b2]" name="playTie" duration-ms="3" started-at="2016-10-10T08:23:04Z" finished-at="2016-10-10T08:23:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playTie -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:fr.p10.miage.rps.test.RockPaperScissorsTest@32d992b2]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-10-10T08:23:04Z" finished-at="2016-10-10T08:23:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:fr.p10.miage.rps.test.RockPaperScissorsTest@32d992b2]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-10-10T08:23:04Z" finished-at="2016-10-10T08:23:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:fr.p10.miage.rps.test.RockPaperScissorsTest@32d992b2]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2016-10-10T08:23:04Z" finished-at="2016-10-10T08:23:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="playWin()[pri:0, instance:fr.p10.miage.rps.test.RockPaperScissorsTest@32d992b2]" name="playWin" duration-ms="3" started-at="2016-10-10T08:23:04Z" finished-at="2016-10-10T08:23:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playWin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:fr.p10.miage.rps.test.RockPaperScissorsTest@32d992b2]" name="afterMethod" is-config="true" duration-ms="1" started-at="2016-10-10T08:23:04Z" finished-at="2016-10-10T08:23:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:fr.p10.miage.rps.test.RockPaperScissorsTest@32d992b2]" name="afterClass" is-config="true" duration-ms="0" started-at="2016-10-10T08:23:04Z" finished-at="2016-10-10T08:23:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- fr.p10.miage.rps.test.RockPaperScissorsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
